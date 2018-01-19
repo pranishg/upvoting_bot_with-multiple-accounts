@@ -4,7 +4,7 @@ UBUNTU 17
 
 # apt-get update -y 
 #apt-get upgrade -y 
-
+#git clone (clone this project or fork it and clone from your repo)
 _____________________________________
 Make sure you have python3 installed  check by issuing below command 
 
