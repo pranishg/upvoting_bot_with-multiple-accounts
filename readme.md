@@ -13,7 +13,7 @@ Make sure you have python3 installed  check by issuing below command
 __________________________________________________________________________
 install pip3
 
-#apt-get install pip3 -y
+#apt-get install python3-pip -y
 
 ________________________________________________________________
 install piston using pip ----
