@@ -10,6 +10,8 @@ Make sure you have python3 installed  check by issuing below command
 
 #python3 -V
 
+apt-get install libffi-dev libssl-dev python-dev python3-pip
+
 __________________________________________________________________________
 install pip3
 
